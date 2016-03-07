@@ -4,11 +4,6 @@ CodePath project
 
 Submitted by: Diana Nedkova
 
-# Tumblr
-Project for CodePath
-
-Submitted by: Diana Nedkova
-
 
 * [x] Tapping on a photo in the news feed should expand the photo full screen.
 * [x] Tapping the Done button should animate the photo back into its position in the news feed. (partially done)
